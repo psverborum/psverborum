@@ -3,6 +3,9 @@
   <br />
   <br />
   <br />
+  I left. Now i'm on Codeberg -> <a href="https://codeberg.org/verborum">
+  link on my Codeberg page
+</a>
 </div>
 
 [![LeetCode user psverborum](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LEETCODE%20PWNED&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpsverborum&logo=leetcode&logoColor=yellow)](https://leetcode.com/psverborum/)
