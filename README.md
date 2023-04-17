@@ -3,7 +3,7 @@
   <br />
   <br />
   <br />
-  Now i'm on Codeberg. GitHub now is the capitalistic Microsoft's lil boi. -> <a href="https://codeberg.org/verborum">
-  link on my Codeberg page
-</a>
+  All my own projects are on Codeberg. GitHub now is the capitalistic Microsoft's lil boi. <a href="https://codeberg.org/verborum">Link to my Codeberg page</a>
+  <br />
+  Here I only do contributions into open source projects.
 </div>
